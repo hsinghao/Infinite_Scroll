@@ -46,6 +46,11 @@ h1 {
     margin-top: 10px;  
 }
 
+#heart {
+    color: red;
+    font-size: 150%;
+}
+
 /* Media Query: Large Smartphone */
 @media screen and (max-width: 600px) {
     h1 {
